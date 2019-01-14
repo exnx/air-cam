@@ -1,6 +1,12 @@
 # Air Cam
 
-ABSTRACT
+Live Demo
+https://www.youtube.com/watch?v=-oCpN1JeWj8
+
+Report
+https://drive.google.com/file/d/1eTupybiWCJAXVqUy2parv2I1H0WZ8upZ/view
+
+# ABSTRACT
 
 Air Cam is a smart home device that integrates verbal and visual artificial
 intelligence. This paper outlines our research for a prototype that allows people
@@ -20,8 +26,3 @@ training data, the system can be applied to small and medium size rooms, and
 potentially reach a user base that is visually impaired to help them and others
 find lost items.
 
-Live Demo
-https://www.youtube.com/watch?v=-oCpN1JeWj8
-
-Report
-https://drive.google.com/file/d/1eTupybiWCJAXVqUy2parv2I1H0WZ8upZ/view
