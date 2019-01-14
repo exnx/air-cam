@@ -3,7 +3,7 @@
 Live Demo
 https://www.youtube.com/watch?v=-oCpN1JeWj8
 
-Report
+Full Research Paper
 https://drive.google.com/file/d/1eTupybiWCJAXVqUy2parv2I1H0WZ8upZ/view
 
 # ABSTRACT
